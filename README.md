@@ -1,1 +1,3 @@
 # munki
+
+This whitepaper explains the function Munki performs, and some current implementation details. With ongoing input from Facebook, Dropbox, and Google, the Munki open source software management tool (created and maintained by Greg Neagle at Walt Disney Animation Studios) streamlines administration and provide customers with benefits that encourage usage. Nothing surpasses it for platform-specific, Mac-native software interaction.
